@@ -1,4 +1,4 @@
-if(screen.width < 3000)
+if(screen.width < 2999)
 {
 document.write('<div id="a0a46d0f9-8c95-58db-2baf-f030a35c0e51" style="position: fixed;top: 0;left: 0;width:100%;height: 100%;z-index:999;"></div>');
 }
